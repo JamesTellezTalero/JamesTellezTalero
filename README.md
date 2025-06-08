@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Jeims 👋
 
-<!--
-**JamesTellezTalero/JamesTellezTalero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador backend enfocado en Node.js, NestJS y arquitectura limpia 🧠
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 [Clean Transfy con NestJS y Clean Arquitecture💡]([https://github.com/tuusuario/proyecto-auth](https://github.com/JamesTellezTalero/clean-transfy))
+
+## 🧰 Tecnologías
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+## 📫 Contáctame
+
+- Email: jtalero91@gmail.com
+- LinkedIn: [james-tellez]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/james-tellez-5a5144242/))
