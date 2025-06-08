@@ -38,7 +38,7 @@ Además, me estoy profundizando en:
 ## 📫 Contáctame
 
 - Email: jtalero91@gmail.com
-- LinkedIn: [james-tellez]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/james-tellez-5a5144242/))
+- LinkedIn: [james-tellez]([[https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/james-tellez-5a5144242/)](https://www.linkedin.com/in/james-tellez-5a5144242/))
 
 
 ---
