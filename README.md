@@ -43,4 +43,4 @@ Además, me estoy profundizando en:
 
 ---
 
-_Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones. ¡Vamos con todo! ⚡_
+_Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones⚡_
