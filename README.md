@@ -6,12 +6,19 @@ Desarrollador backend enfocado en Node.js, NestJS y arquitectura limpia 🧠
 
 - 🔐 [Clean Transfy con NestJS y Clean Arquitecture💡]([https://github.com/tuusuario/proyecto-auth](https://github.com/JamesTellezTalero/clean-transfy))
 
-## 🧰 Tecnologías
 
+### 🛠️ Tecnologías principales
+
+#### Dominadas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
+#### En proceso de aprendizaje
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+🐢 **Tortoise ORM**
 ---
 
 ### 💡 Actualmente aprendiendo
