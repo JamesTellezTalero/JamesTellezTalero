@@ -4,7 +4,7 @@ Desarrollador backend enfocado en Node.js, NestJS y arquitectura limpia 🧠
 
 ## 🚀 Proyectos destacados
 
-- 🔐 [Clean Transfy con NestJS y Clean Architecture💡](https://github.com/JamesTellezTalero/clean-transfy)
+- 🔐 [Clean Transfy con NestJS y Clean Architecture](https://github.com/JamesTellezTalero/clean-transfy) 💡
 
 
 ### 🛠️ Tecnologías principales
