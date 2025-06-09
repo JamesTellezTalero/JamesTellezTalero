@@ -30,7 +30,7 @@ Desarrollador backend enfocado en Node.js, NestJS y arquitectura limpia 🧠
 Además, me estoy profundizando en:
 
 - 🏗️ **Arquitectura de código**, especialmente en patrones limpios y mantenibles.
-- 🧼 **Clean Architecture** para separar responsabilidades y escalar proyectos con orden.
+- 🧼 **Clean Architecture** para separar responsabilidades en proyectos a largo plazo.
 - 📐 Principios **SOLID** como base para un código sostenible y flexible.
 
 ---
